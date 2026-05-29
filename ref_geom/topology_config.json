@@ -1,0 +1,16 @@
+{
+  "viscosity": 0.0003004441104831694,
+  "density": 2.854151554075452,
+  "counter": 30,
+  "early_stop_rel_change": 0.001,
+  "brinkman_penalty": 50000.0,
+  "geometry_scale": 1.0,
+  "turbulence_model": "k-epsilon",
+  "wall_treatment": "two-layer",
+  "geometry_scale_xyz": [
+    1,
+    1,
+    1.0
+  ],
+  "volume_loss_weight": 0.0015
+}
