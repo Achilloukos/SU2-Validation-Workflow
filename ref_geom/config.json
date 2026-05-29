@@ -1,0 +1,59 @@
+{
+  "box_length": 100,
+  "box_width": 100,
+  "dimension_d": 20,
+  "pipe_width": 20,
+  "pipe_length": 10,
+  "clearance": 2,
+  "num_pipes_left": 2,
+  "num_pipes_right": 2,
+  "num_pipes_top": 1,
+  "num_pipes_bottom": 2,
+  "fractions_left": [
+    0.22,
+    0.44
+  ],
+  "fractions_right": [
+    0.38,
+    0.74
+  ],
+  "fractions_top": [
+    0.52
+  ],
+  "fractions_bottom": [
+    0.16,
+    0.65
+  ],
+  "pipe_types_left": [
+    "inlet",
+    "outlet"
+  ],
+  "pipe_types_right": [
+    "inlet",
+    "outlet"
+  ],
+  "pipe_types_top": [
+    "inlet"
+  ],
+  "pipe_types_bottom": [
+    "inlet",
+    "outlet"
+  ],
+  "num_outlets": 3,
+  "chosen_outlets": [
+    [
+      "left",
+      1
+    ],
+    [
+      "right",
+      1
+    ],
+    [
+      "bottom",
+      1
+    ]
+  ],
+  "outlets_same_wall": false,
+  "case_name": "geometry_1765067406_5636"
+}
